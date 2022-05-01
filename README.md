@@ -1,1 +1,1 @@
-# Prestashop-module
+# basicmodule
